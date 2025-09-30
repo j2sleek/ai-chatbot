@@ -1,0 +1,27 @@
+{
+  "name": "ai-chatbot",
+  "version": "1.0.0",
+  "description": "A simple AI chatbot app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j2sleek/ai-chatbot.git"
+  },
+  "keywords": [
+    "AI",
+    "chatbot",
+    "ai",
+    "ai",
+    "chatbot"
+  ],
+  "author": "j2sleek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j2sleek/ai-chatbot/issues"
+  },
+  "homepage": "https://github.com/j2sleek/ai-chatbot#readme"
+}
